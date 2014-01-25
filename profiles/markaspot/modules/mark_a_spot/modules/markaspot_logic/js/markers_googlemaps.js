@@ -164,7 +164,7 @@ var markerLayer, queryString;
 
 
             if (item.address){
-              html += '<div class="marker-address"><p>'+ item.address + '</br>'  + '</p></div><div><a class="infowindow-link" href="' + item.path + '">More</a></span>';
+              html += '<div class="marker-address"><p>'+ item.address + '</br>'  + '</p></div><div><a class="infowindow-link" href="' + item.path + '">More..</a></span>';
             }
             /*
             if (item.Value){

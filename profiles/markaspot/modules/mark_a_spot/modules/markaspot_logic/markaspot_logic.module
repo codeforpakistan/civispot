@@ -425,11 +425,13 @@ function markaspot_logic_admin_settings() {
 
 function markaspot_logic_page_alter(&$page) {
   // Add help text to the user login block.
+
   $page['footer']['system_powered-by'] = array(
     '#weight' => -10,
     // please be nice, give attribution
-    '#markup' => '<span>'.t('Built with <a id="mas-link" href="http://mark-a-spot.org">Mark-a-Spot</a>').'</span>',
+    '#markup' => '<span style="font-size: 0.8em;">'.t('Built with <a id="mas-link" href="http://mark-a-spot.org">Mark-a-Spot</a>').'</span>',
   );
+
 }
 
 

@@ -176,7 +176,7 @@ var markerLayer, queryString;
           var html = '<div class="marker-title"><h4><a class="infowindow-link" href="' + item.path + '">' + item.title + '</a></h4><span class="meta-info date">' + item.created + '</span></div>';
           if (item.address){
             html += '<div class="marker-address"><p>'+ item.address + '</p></div>';
-            html += '<div><a class="infowindow-link" href="' + item.path + '">More</a></div>';
+            html += '<div><a class="infowindow-link" href="' + item.path + '">More..</a></div>';
           }
           if (getToggle == 1) {
             colors = [
