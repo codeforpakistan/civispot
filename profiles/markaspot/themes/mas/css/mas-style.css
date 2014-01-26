@@ -6634,4 +6634,5 @@ table .checkbox input[type="checkbox"] {
 {
 	background-color: #FFFFFF;
 	border-color: #999999;
+	background-image: none !important;
 }
