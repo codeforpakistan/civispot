@@ -1504,3 +1504,8 @@ ul.icons li [class*=" icon-"] {
   background-image: linear-gradient(top, #333333, #222222);
   background-repeat: repeat-x;
 }
+
+.welcome-text.well {
+	color: #000 !important;
+	font-weight: bold;
+}
