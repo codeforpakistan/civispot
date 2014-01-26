@@ -34,6 +34,9 @@ html {
 body {
   margin: 0;
 }
+footer {
+	height: 40px;
+}
 a {
   background: transparent;
 }
