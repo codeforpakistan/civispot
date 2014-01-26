@@ -55,7 +55,7 @@
   </div>
   <div class="container stage">
     <div>
-      <div class="col-md-7">
+      <div class="col-md-12">
         <div class="welcome-text well">
           <?php
             // if you don't want bootstrap carousel to welcome visitors
