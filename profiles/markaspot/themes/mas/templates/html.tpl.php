@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="<?php print $language->language; ?>">
+<html lang="<?php print $language->language; ?>" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
