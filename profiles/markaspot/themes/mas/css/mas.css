@@ -1509,3 +1509,6 @@ ul.icons li [class*=" icon-"] {
 	color: #000 !important;
 	font-weight: bold;
 }
+#block-user-login #user-login-form  ul {
+	margin: 15px 0;
+}
